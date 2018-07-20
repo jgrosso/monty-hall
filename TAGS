@@ -1,0 +1,26 @@
+
+./Setup.hs,15
+main main1,2
+
+./app/Main.hs,542
+module Main Main0,1
+numRuns numRuns12,13
+times times15,16
+trials trials18,19
+main main32,33
+type Door Door38,39
+maxDoor maxDoor40,41
+minDoor minDoor43,44
+doors doors46,47
+chooseDoor chooseDoor49,50
+others others52,53
+randomElem randomElem55,56
+generateDoors generateDoors60,61
+revealGoat revealGoat65,66
+data ActionAction68,69
+  = StayStay69,70
+  | SwitchSwitch70,71
+type ChooseFn ChooseFn72,73
+choosePredetermined choosePredetermined74,75
+chooseRandomly chooseRandomly81,82
+montyHall montyHall84,85
